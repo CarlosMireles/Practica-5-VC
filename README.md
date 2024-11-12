@@ -50,7 +50,7 @@ El modelo **MTCNN** detecta los rostros en cada fotograma del video capturado po
 El confeti es generado en posiciones aleatorias en la parte superior de la pantalla. Cada partícula de confeti tiene una velocidad inicial aleatoria, y a medida que desciende por la pantalla, su velocidad incrementa. Simula un efecto de celebración.
 
 ## Ejemplo
-![GIF de ejemplo](assets\celebracion.gif)
+![GIF de ejemplo](assets/celebracion.gif)
 
 ---
 Saúl Antonio Cruz Pérez  
