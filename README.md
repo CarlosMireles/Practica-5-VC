@@ -27,7 +27,7 @@ pip install numpy
 ```
 
 ### 3. Descargar imágenes necesarias
-Asegúrate de contar con las imágenes necesarias para el proyecto. Estas deben estar ubicadas en la carpeta `images/` en el mismo directorio donde se encuentra el script. Las imágenes necesarias son:
+Asegúrate de contar con las imágenes necesarias para el proyecto. Estas deben estar ubicadas en la carpeta `assets/` en el mismo directorio donde se encuentra el script. Las imágenes necesarias son:
 - `pinturacara1.png`: Marca de color para el ojo izquierdo.
 - `pinturacara2.png`: Marca de color para el ojo derecho.
 - `bufanda.png`: Imagen de la bufanda.
@@ -50,3 +50,14 @@ El modelo **MTCNN** detecta los rostros en cada fotograma del video capturado po
 El confeti es generado en posiciones aleatorias en la parte superior de la pantalla. Cada partícula de confeti tiene una velocidad inicial aleatoria, y a medida que desciende por la pantalla, su velocidad incrementa. Simula un efecto de celebración.
 
 ## Ejemplo
+![GIF de ejemplo](assets\celebracion.gif)
+
+---
+Saúl Antonio Cruz Pérez  
+Carlos Mireles Rodríguez
+
+Universidad de las Palmas de Gran Canaria  
+Escuela de Ingeniería en Informática  
+Grado de Ingeniería Informática  
+Visión por Computador  
+Curso 2024/2025
